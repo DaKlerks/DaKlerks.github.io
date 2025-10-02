@@ -41,3 +41,22 @@
   margin-top: -1rem !important;
   margin-bottom: -1rem !important;
 }
+
+.card {
+  height: 80px;
+}
+
+.navbarcolor
+{
+  background-color: #16032b;
+}
+
+.darkblue
+{
+  background-color: #371261;
+}
+
+.darkgray
+{
+  background-color: #08090A;
+}
